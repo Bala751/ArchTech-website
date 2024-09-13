@@ -14,7 +14,7 @@ section{
 }
 
 .header{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),  url(/webiste/images/5.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),  url(/images/5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -233,7 +233,7 @@ nav .logo span{
 .img-box{
     position: absolute;
     
-    background-image: url(/webiste/images/7.jpeg);
+    background-image: url(/images/7.jpeg);
     width: 600px;
     height: 500px;
     background-size: cover;
@@ -556,7 +556,7 @@ color: orangered;
 }
 
 .feature .row .box img{
-    width: 100$;
+    width: 100%;
     height: 200px;
 }
 
